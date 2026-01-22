@@ -1,7 +1,7 @@
 # 欢迎来到 StackEdit 中文版！
 
 你好！我是你在 **StackEdit中文版** 中的第一个 Markdown 文件。如果你想了解 StackEdit中文版，可以阅读此文章。如果你想玩 Markdown，你也可以编辑此文章。另外，您可以通过打开导航栏左边的**文件资源管理器**来创建新文件。
-![输入图片说明](/imgs/2026-01-22/rZkzh8b6xlxnGnFI.png)
+![输入图片说明](https://raw.githubusercontent.com/csj5425/note/master/imgs/2026-01-22/43b64IPMvy3bsbgt.png)
 # 文件
 
 StackEdit中文版 将您的文件存储在您的浏览器中，这意味着您的所有文件都会自动保存在本地并且可以**离线访问！**
@@ -103,5 +103,5 @@ B --> D{菱形}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNjAwNzA5XX0=
+eyJoaXN0b3J5IjpbMTE2ODM3NzMzOSw3NTE2MDA3MDldfQ==
 -->
